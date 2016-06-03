@@ -18,10 +18,10 @@ Implement Service broker with Spring Boot (Toshiaki Maki, Pivotal)
  * Demo & Code https://github.com/making/fake-service-broker
 
 Cloud Foundry and Japanese-style System Integration (Isoo Ueno, NTT) 
- * Slide TDB
+ * https://github.com/shinji62/cf-meetup-tokyo-2016-06-01--2/blob/master/20160601_meetup_NTT.pdf
 
 Challenge for Glassfish Buildpack (Kenji Kazumura, Fujitsu Limited)  
- * Slide TDB
+ * http://www.slideshare.net/kenjikazumura/challenge-for-glassfish-builpack
 
 
 #Picture
