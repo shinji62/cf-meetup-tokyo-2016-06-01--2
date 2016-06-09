@@ -8,7 +8,7 @@ Cloud Foundry Foundation introduction (Michael Pinette, CFF)
  * No slide, just quick introduction
 
 Cloud Foundry CLI PM in Tokyo (Dies Koper, Fujitsu Australia)   
- * Slideshare   TBD
+ * Slides https://github.com/shinji62/cf-meetup-tokyo-2016-06-01--2/blob/master/CF-Meetup-Tokyo-CF-CLI-PM.PDF
 
 Introduction to Bosh 2.0 (Gwenn Etourneau, Pivotal) 
  * Slideshare http://www.slideshare.net/gwennetourneau/bosh-20reloaded
@@ -18,10 +18,10 @@ Implement Service broker with Spring Boot (Toshiaki Maki, Pivotal)
  * Demo & Code https://github.com/making/fake-service-broker
 
 Cloud Foundry and Japanese-style System Integration (Isoo Ueno, NTT) 
- * https://github.com/shinji62/cf-meetup-tokyo-2016-06-01--2/blob/master/20160601_meetup_NTT.pdf
+ * Slides https://github.com/shinji62/cf-meetup-tokyo-2016-06-01--2/blob/master/20160601_meetup_NTT.pdf
 
 Challenge for Glassfish Buildpack (Kenji Kazumura, Fujitsu Limited)  
- * http://www.slideshare.net/kenjikazumura/challenge-for-glassfish-builpack
+ * Slides http://www.slideshare.net/kenjikazumura/challenge-for-glassfish-builpack
 
 
 #Picture
